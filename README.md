@@ -3,8 +3,6 @@
 ### Mini Project 2
 
 
-# Mini Project 1
-
 ## Description
 
 
@@ -14,6 +12,9 @@
 ### Dependencies
 ```
 pip install -r requirements.txt
+
+Download the dataset from https://www.kaggle.com/datasets/thedevastator/airplane-crashes-and-fatalities
+
 ```
 
 ### Executing program
@@ -37,3 +38,5 @@ cjweinhold@mail.fhsu.edu
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
+```
+```
