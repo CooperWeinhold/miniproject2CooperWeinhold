@@ -15,6 +15,7 @@ the manufactures.
 pip install -r requirements.txt
 
 Download the dataset from https://www.kaggle.com/datasets/thedevastator/airplane-crashes-and-fatalities
+and add it to the project folder. 
 
 ```
 
