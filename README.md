@@ -29,8 +29,6 @@ python main.py
 
 ## Authors
 
-Contributors names and contact info
-
 Cooper Weinhold
 cjweinhold@mail.fhsu.edu
 
